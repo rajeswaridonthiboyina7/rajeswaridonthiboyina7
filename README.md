@@ -1,16 +1,51 @@
-## Hi there 👋
+# I'm Rajeswari
 
-<!--
-**rajeswaridonthiboyina7/rajeswaridonthiboyina7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- Computer Science Student
+- Passionate about Frontend Development and Problem Solving
+- Working with React and TypeScript
+- Currently learning Full Stack Development
+- Solving Data Structures and Algorithms problems
+- Interested in Web Development and Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+## Languages
+- Java
+- JavaScript
+- TypeScript
+- python
+
+## Frontend
+- React
+- React Router
+- Material UI
+- Zustand
+- React Hook Form
+
+## Backend
+- Node.js (Learning)
+- REST APIs
+
+## Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+## Currently Learning
+- React
+- TypeScript Best Practices
+- Full Stack Development
+
+## Goals for 2026
+
+- Build production-ready React applications
+- Master Data Structures and Algorithms
+- Contribute to Open Source
+- Become a Full Stack Developer
+
+## Connect With Me
+
+- GitHub: https://github.com/rajeswaridonthiboyina7
